@@ -1,0 +1,19 @@
+body {
+	font-size: 13px;
+	font-family: Helvetica, Arial, sans-serif;
+	line-height: 16px;
+}
+
+#tword {
+	width: 200px;
+	font-size: 13px;
+	font-family:  Helvetica, Arial, sans-serif;
+}
+
+#results p span {
+	cursor: pointer;
+}
+
+#results p span:hover {
+	background: #eee;
+}
